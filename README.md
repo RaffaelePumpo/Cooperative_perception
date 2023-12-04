@@ -12,7 +12,7 @@ This lab focuses on the utilization of Intelligent Road-Side Unit (IRSU) data, p
 ## Steps:
 1. Task 1 - Visualizing LiDAR Data from IRSU:
    - Process and visualize point cloud data from a 32-channel LiDAR.
-     ![Single actor](Comperative_perception/Single_vehicle.png)
+     ![Single actor](Comperative_perception/lab_1/Single_vehicle.png)
 
 2. Task 2 - Enhancing Vehicle Perception with IRSU Data:
    - IRSU data can enhance the vehicle's field of view and perception range.
