@@ -28,9 +28,11 @@ This lab focuses on the utilization of Intelligent Road-Side Unit (IRSU) data, p
    - Car:
      
      ![Cars](https://github.com/RaffaelePumpo/Cooperative_perception/blob/main/lab1/Car.png)
+     
    -Truck:
 
      ![Truck](https://github.com/RaffaelePumpo/Cooperative_perception/blob/main/lab1/Truck.png)
+   
    -Pedestrians:
 
      ![Pedestrians](https://github.com/RaffaelePumpo/Cooperative_perception/blob/main/lab1/PEdestrians.png)
