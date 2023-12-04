@@ -16,7 +16,7 @@ This lab focuses on the utilization of Intelligent Road-Side Unit (IRSU) data, p
 
 2. Task 2 - Enhancing Vehicle Perception with IRSU Data:
    - IRSU data can enhance the vehicle's field of view and perception range.
-   ![Multiple actor](https://github.com/RaffaelePumpo/Cooperative_perception/blob/main/lab1/Multiple_vehicle.png)
+   ![Multiple actor](https://github.com/RaffaelePumpo/Cooperative_perception/blob/main/lab1/Multiple.png)
 
 3. Task 3 - Building an Occupancy Grid:
    - Construct a Bird's Eye View (BEV) occupancy grid of the environment.
@@ -35,4 +35,4 @@ This lab focuses on the utilization of Intelligent Road-Side Unit (IRSU) data, p
    
    - Pedestrians:
 
-     ![Pedestrians](https://github.com/RaffaelePumpo/Cooperative_perception/blob/main/lab1/PEdestrians.png)
+     ![Pedestrians](https://github.com/RaffaelePumpo/Cooperative_perception/blob/main/lab1/Pedestrians.png)
